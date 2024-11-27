@@ -1,0 +1,7 @@
+wikipedia-api==0.6.0
+pandas==2.2.0
+fastapi==0.109.0
+uvicorn==0.27.0
+python-dotenv==1.0.0
+pytest==7.4.4
+pydantic==2.5.3
